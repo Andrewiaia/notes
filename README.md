@@ -1,0 +1,1 @@
+Very basic python web app I am working on. The main reason I created this was to test my HTML and CSS skills and create a python web app with different login functionalities. Currently working on saving notes to specific users so as you log into different accounts you have information stored across accounts.
