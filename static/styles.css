@@ -1,0 +1,48 @@
+body {
+    margin:0;
+    padding:0;
+}
+
+.inputs {
+     display:flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     gap: 30px;
+}
+
+.inputs input {
+    width: 20%;
+    height: 30px;
+    text-align: center;
+}
+
+.inputs button {
+    width:10%;
+    background-color: lightblue;
+}
+
+.inputs button:active {
+    background-color: lightgreen;
+}
+
+.header-container {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: lightcyan;
+    top:0;
+    margin:0;
+    padding:0;
+}
+
+.header-container nav {
+    display: flex;
+    gap:30px;
+    padding-right:40px;
+    font-size: 20px;
+}
+
+.header-container h1 {
+    padding-left:40px;
+}
